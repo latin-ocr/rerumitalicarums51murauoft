@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rerumitalicarums51murauoft_0087.png"; bbox 0 0 2320 3424; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 635 13 1358">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 635 13 1358">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 635 13 1358; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 0 910 8 1358; x_wconf 55' lang='lat' dir='ltr'>w———W———vn</span> <span class='ocrx_word' id='word_1_2' title='bbox 0 635 13 900; x_wconf 45' lang='lat' dir='ltr'>meane-smasmffixa</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 513 3202 1677 3248">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 513 3202 1677 3248">
+     <span class='ocr_line' id='line_1_2' title="bbox 513 3202 1677 3248; baseline 0.007 -18"><span class='ocrx_word' id='word_1_3' title='bbox 513 3202 585 3231; x_wconf 87' lang='lat' dir='ltr'><strong>Cod.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 605 3203 680 3232; x_wconf 80' lang='lat' dir='ltr'><strong>della</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 699 3203 812 3248; x_wconf 51' lang='lat' dir='ltr'>Sociessh</span> <span class='ocrx_word' id='word_1_6' title='bbox 830 3205 964 3235; x_wconf 77' lang='lat' dir='ltr'>Siciliana</span> <span class='ocrx_word' id='word_1_7' title='bbox 983 3207 1012 3235; x_wconf 83' lang='lat' dir='ltr'>di</span> <span class='ocrx_word' id='word_1_8' title='bbox 1033 3207 1124 3236; x_wconf 65' lang='lat' dir='ltr'>Sion-ia</span> <span class='ocrx_word' id='word_1_9' title='bbox 1145 3209 1233 3243; x_wconf 83' lang='lat' dir='ltr'>patria</span> <span class='ocrx_word' id='word_1_10' title='bbox 1252 3210 1281 3237; x_wconf 87' lang='lat' dir='ltr'>di</span> <span class='ocrx_word' id='word_1_11' title='bbox 1303 3209 1434 3237; x_wconf 73' lang='lat' dir='ltr'>Palermo</span> <span class='ocrx_word' id='word_1_12' title='bbox 1455 3210 1476 3237; x_wconf 91' lang='grc'>11</span> <span class='ocrx_word' id='word_1_13' title='bbox 1497 3211 1566 3243; x_wconf 80' lang='grc'>7.12,</span> <span class='ocrx_word' id='word_1_14' title='bbox 1586 3219 1612 3245; x_wconf 84' lang='lat' dir='ltr'>p.</span> <span class='ocrx_word' id='word_1_15' title='bbox 1635 3212 1677 3238; x_wconf 83' lang='grc' dir='ltr'>ΙΑ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 16 0 2320 3424">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 16 0 2320 3424">
+     <span class='ocr_line' id='line_1_3' title="bbox 16 0 2320 3424; baseline 0 1"><span class='ocrx_word' id='word_1_16' title='bbox 16 0 2320 3424; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
